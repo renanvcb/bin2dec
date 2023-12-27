@@ -1,5 +1,7 @@
 # Bin2Dec
 
+App made for the challenge [App Ideas](https://github.com/florinpop17/app-ideas)
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
@@ -21,13 +23,13 @@ constraints:
 
 ## User Stories
 
-- [ ] User can enter up to 8 binary digits in one input field
-- [ ] User must be notified if anything other than a 0 or 1 was entered
-- [ ] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
+- [x] User can enter up to 8 binary digits in one input field
+- [x] User must be notified if anything other than a 0 or 1 was entered
+- [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered
 
 ## Bonus features
 
-- [ ] User can enter a variable number of binary digits
+- [x] User can enter a variable number of binary digits
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -46,8 +48,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
