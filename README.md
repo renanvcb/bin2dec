@@ -4,6 +4,14 @@ Check the [demo here](https://bin2dec-iota.vercel.app/)
 
 App made for the challenge [App Ideas](https://github.com/florinpop17/app-ideas)
 
+## Techs used:
+
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Shadcn-ui](https://img.shields.io/badge/shadcn%20ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-283339?style=for-the-badge&logo=zod&logoColor=3068b7)
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
