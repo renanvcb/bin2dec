@@ -1,5 +1,7 @@
 # Bin2Dec
 
+Check the [demo here](https://bin2dec-iota.vercel.app/)
+
 App made for the challenge [App Ideas](https://github.com/florinpop17/app-ideas)
 
 **Tier:** 1-Beginner
